@@ -1,0 +1,8 @@
+Date: 2023-10-22, Amount: ₹20.0, Category: food, Description: banana
+Date: 2023-10-22, Amount: ₹50.0, Category: food, Description: milkshake
+Date: 2023-10-22, Amount: ₹10.0, Category: grocery, Description: tide shop
+Date: 2023-10-22, Amount: ₹50.0, Category: food, Description: veg thali
+Date: 2023-10-22, Amount: ₹200.0, Category: food , Description: fried chicken
+Date: 2023-10-22, Amount: ₹20.0, Category: food, Description: ice cream
+Date: 2023-10-22, Amount: ₹799.0, Category: mobile recharge, Description: 3 month movile recharge
+Date: 2023-10-22, Amount: ₹-200.0, Category: refund, Description: online refund
